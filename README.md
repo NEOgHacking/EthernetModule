@@ -20,6 +20,8 @@ up to 100Mb/s speed
 
 ## Case
 
+https://cad.onshape.com/documents/23acd3255b900cc5b85fa1fc/w/7ef244823df79fb773706f50/e/06be5b5812756bedfbe98cc1?renderMode=0&uiState=6abc17ba1a93f5edf6ffc618
+
 <img width="1611" height="1102" alt="image" src="https://github.com/user-attachments/assets/5d56e277-4e7f-4762-a9ef-5d8ecd44eb76" />
 
 <img width="1186" height="811" alt="image" src="https://github.com/user-attachments/assets/b1481979-073f-44aa-92bb-af7387c2d76f" />
