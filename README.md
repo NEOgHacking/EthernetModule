@@ -30,5 +30,13 @@ https://cad.onshape.com/documents/23acd3255b900cc5b85fa1fc/w/7ef244823df79fb7737
 ## Code
 I used the tutorial on the first driver heavily when writing the code for this module.
 
+## BOM
+
+| Place | Cost |
+| --- | --- |
+| LCSC | $38.34 |
+| JLCPCB | $11.62 |
+| Total | $49.96 |
+
 # Credits
 # **@KOEG**
